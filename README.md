@@ -1,0 +1,2 @@
+# youtube-to-mp3
+This code uses the MoviePy library to download and convert the video to an audio file, then saves the audio file as an MP3 file in the specified directory. The application also includes error handling and more detailed information on the status of the download and conversion. Additionally, it uses more advanced features of Tkinter such as inheritance and packing widgets, and also includes some graphical enhancements such as padding and alignment of widgets.
